@@ -9,6 +9,11 @@ YouTube Trending Videos Data (https://huggingface.co/datasets/jettisonthenet/tim
 - How long do videos typically remain on trending list?
 - Records interaction data, such as views, likes, dislikes, and comments, for YouTube videos that are on the trending list over the span of a year
 
+Microsoft Stock (https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-analysis/data)
+- What long term/short term trends exist trends can be observed throughout the 6 years?
+- Includes daily historical data on Microsoft's stock market during a six-year period, including prices and trading volume
+
+
 Fast Food Consumption vs Health Impacts (https://www.kaggle.com/datasets/prince7489/fast-food-consumption-and-health-impact-dataset): 
 - Which health factors will end up being stronger than others in terms of being able to deduce health impacts?
 - Showcases age and gender classifications on people, daily eating habits (# of meals, hours of sleeep, etc.), and health impacts (# of monthly doctor visits, energy levels, digestive issues, etc.)
