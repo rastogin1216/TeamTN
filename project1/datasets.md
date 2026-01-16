@@ -24,7 +24,3 @@ Olympic Track/Field Data (https://www.kaggle.com/datasets/jayrav13/olympic-track
 - How have performances at women's events changed since their introduction?
 - Can be aggregated to represent time-series data using year column
 - Shows Olympic track and field results throughout several Olympic years, making it possible to analyze how medal distributions and event performances evolve over time
-  
-Fast Food Consumption vs Health Impacts (https://www.kaggle.com/datasets/prince7489/fast-food-consumption-and-health-impact-dataset): 
-- Which health factors will end up being stronger than others in terms of being able to deduce health impacts?
-- Showcases age and gender classifications on people, daily eating habits (# of meals, hours of sleep, etc.), and health impacts (# of monthly doctor visits, energy levels, digestive issues, etc.)
