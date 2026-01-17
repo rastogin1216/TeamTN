@@ -1,1 +1,6 @@
 
+{
+   "commit-id":"your most recent commit ID from Github",
+   "project-id1": "student 1’s GCP project id",
+   "project-id2": "student 2’s GCP project id",
+}
